@@ -1,2 +1,2 @@
 # HelloGuys
- first_repository_git_github
+ Repositório criado durante aula do canal Curso em Vídeo
